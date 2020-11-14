@@ -1,5 +1,4 @@
 const Koa = require('koa');
-const { env } = require('process');
 const app = new Koa();
 
 app.use(async ctx => {
