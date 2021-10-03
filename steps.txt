@@ -1,6 +1,0 @@
-1. create a nodejs app [x]
-2. create a dockerfile [x]
-3. create a docker compose file
-4. push image on docker hub
-5. run image on vps
-6. set up watchtower
